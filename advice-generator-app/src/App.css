@@ -19,13 +19,13 @@ body {
 /* Utility Classes */
 .txt-small {
   font-size: small;
+  letter-spacing: 5px;
 }
 
 .txt-large {
   font-size: 28px;
   font-weight: 800;
 }
-
 
 /* Main Classes */
 
@@ -62,6 +62,13 @@ body {
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+
+/* .advice-divider {
+  background-image: url(./images/pattern-divider-mobile.svg);
+  background-size: fit;
+  width: 100%;
+  height: auto;
+} */
 
 .advice-generate {
   display: flex;
