@@ -63,13 +63,6 @@ body {
   margin-bottom: 1rem;
 }
 
-/* .advice-divider {
-  background-image: url(./images/pattern-divider-mobile.svg);
-  background-size: fit;
-  width: 100%;
-  height: auto;
-} */
-
 .advice-generate {
   display: flex;
   flex-direction: row;
@@ -85,3 +78,13 @@ body {
   transform: translateY(50%);
 }
 
+#dice:hover {
+  box-shadow: 0 0 20px var(--NeonGreen);
+  transition: box-shadow .5s;
+}
+
+@media screen and (min-width: 800px) {
+  .box{
+    width: 40%;
+  }
+}
