@@ -42,7 +42,7 @@ body {
 
 .box {
   width: 90%;
-  border-radius: 5px;
+  border-radius: 10px;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -85,6 +85,10 @@ body {
 
 @media screen and (min-width: 800px) {
   .box{
-    width: 40%;
+    width: 35%;
+  }
+  .advice-content {
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 }
