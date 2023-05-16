@@ -59,8 +59,8 @@ body {
 
 .advice-content {
   color: var(--LightCyan);
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
 }
 
 .advice-generate {
