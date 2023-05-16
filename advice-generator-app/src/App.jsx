@@ -47,7 +47,7 @@ function App() {
 
       <div className="attribution">
         Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-        Coded by <a href="#">Thanh Nguyen</a>.
+        Coded by <a href="https://github.com/colormethanh/Advice_Generator_App">Thanh Nguyen</a>.
       </div>
     </>
     
